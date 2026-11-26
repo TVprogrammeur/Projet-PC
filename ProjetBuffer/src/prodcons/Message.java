@@ -1,0 +1,6 @@
+/**
+ * Message
+ */
+public class Message {
+
+}
